@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_dark"
+    tools:context="pt.ipg.gcyclerclient2.MainActivity">
+
+    <Button
+        android:id="@+id/button_adicionar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="77dp"
+        android:background="@android:color/holo_green_dark"
+        android:elevation="10dp"
+        android:text="Adicionar à coleção"
+        android:textColor="@android:color/background_light"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp"
+        android:padding="8dp"/>
+
+    <Button
+        android:id="@+id/button_ver_colecao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:background="?attr/colorControlActivated"
+        android:text="A minha coleção"
+        android:textColor="@android:color/background_light"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="90dp"
+        android:padding="8dp"
+        android:layout_below="@+id/button_adicionar"
+        android:layout_toRightOf="@+id/button_adicionar"
+        android:layout_toEndOf="@+id/button_adicionar" />
+
+    <Button
+        android:id="@+id/button_ver_a_venda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button_adicionar"
+        android:layout_alignStart="@+id/button_adicionar"
+        android:layout_below="@+id/button_ver_colecao"
+        android:layout_marginTop="86dp"
+        android:background="@android:color/darker_gray"
+        android:text="Ver jogos à venda"
+        android:textColor="@android:color/background_light"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="160dp"
+        android:padding="8dp"/>
+
+
+</RelativeLayout>

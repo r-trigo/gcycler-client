@@ -1,0 +1,44 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml:2:1-55
+	package
+		ADDED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml:2:11-52
+		INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml
+		INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml
+		INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml
+		INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Seksu\.android\build-cache\fafbbc7a990d9a762db9f34316bdad8af9996d50\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Seksu\.android\build-cache\dabb10fcf1fd7d33d58c790feef4d53f4d7698a6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Seksu\.android\build-cache\2ec3f8e03ff0fdbdfee3ad5ea3b1179a4dd33616\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Seksu\.android\build-cache\2781aff570acd614b80e575c4f21beb5b0ad6df6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Seksu\.android\build-cache\734b7a05df476e64189b49ee5bae911a2c6f52fd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Seksu\.android\build-cache\b0301c04d259abd731185427ec7710855fb289cb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Seksu\.android\build-cache\07e7c8451abd0266d9905225b06823c8140b2077\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Seksu\.android\build-cache\de763b2df6c62565bf400858bca4684b952f64cb\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Seksu\.android\build-cache\5788fc04d6a6285c93aa27174a7fe82dc5fa2738\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\Seksu\.android\build-cache\13a129ae7a5d472c92d94e063e494cbbd0e61d25\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Seksu\.android\build-cache\fafbbc7a990d9a762db9f34316bdad8af9996d50\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml
+		INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml
+		INJECTED from C:\Creations\GcyclerClient2\AndroidBootstrap\src\main\AndroidManifest.xml
+application
+ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Seksu\.android\build-cache\fafbbc7a990d9a762db9f34316bdad8af9996d50\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Seksu\.android\build-cache\dabb10fcf1fd7d33d58c790feef4d53f4d7698a6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Seksu\.android\build-cache\2ec3f8e03ff0fdbdfee3ad5ea3b1179a4dd33616\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Seksu\.android\build-cache\2781aff570acd614b80e575c4f21beb5b0ad6df6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Seksu\.android\build-cache\734b7a05df476e64189b49ee5bae911a2c6f52fd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Seksu\.android\build-cache\b0301c04d259abd731185427ec7710855fb289cb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Seksu\.android\build-cache\07e7c8451abd0266d9905225b06823c8140b2077\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Seksu\.android\build-cache\de763b2df6c62565bf400858bca4684b952f64cb\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Seksu\.android\build-cache\5788fc04d6a6285c93aa27174a7fe82dc5fa2738\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\Seksu\.android\build-cache\13a129ae7a5d472c92d94e063e494cbbd0e61d25\output\AndroidManifest.xml:9:5-20
